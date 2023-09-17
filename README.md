@@ -49,6 +49,6 @@ Clone this repository:
 
   python automated-data.py
 
-## License
+### License
 
 This project is licensed under the MIT License.
