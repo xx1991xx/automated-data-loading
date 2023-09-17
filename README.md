@@ -40,7 +40,7 @@ Clone this repository:
    ```bash
    git clone https://github.com/your-username/automated-bigquery-data-loader.git
 
-## Usage
+############# Usage
 
 1. Place your CSV file with the data in the data/ folder.
 
