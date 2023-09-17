@@ -35,9 +35,22 @@ Before using this script, ensure you have the following:
 
 ### Installation
 
-1. Clone this repository:
+Clone this repository:
 
    ```bash
    git clone https://github.com/your-username/automated-bigquery-data-loader.git
 
+### Usage
 
+1. Place your CSV file with the data in the data/ folder.
+
+2. Configure the script (e.g., BigQuery table details, column mappings) in automated-data.py.
+
+3. Run the script:
+
+  ```bash
+  python automated-data.py
+
+### License
+
+This project is licensed under the MIT License.
