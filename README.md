@@ -37,7 +37,6 @@ Before using this script, ensure you have the following:
 
 Clone this repository:
 
-  bash
    git clone https://github.com/your-username/automated-bigquery-data-loader.git
 
 ## Usage
@@ -48,7 +47,6 @@ Clone this repository:
 
 3. Run the script:
 
-  ```bash
   python automated-data.py
 
 ## License
